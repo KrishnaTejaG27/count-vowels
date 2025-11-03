@@ -1,4 +1,4 @@
-# 🧩 Problem: Find the Second Largest Element in an Array
+# Problem: Find the Second Largest Element in an Array
 
 ## Description
 Write a program to find the second largest **distinct** number in a list of integers.  
@@ -17,6 +17,8 @@ Input:
 4 7 2 7 3 4
 Output:
 4
+
 ## Build & Run
 gcc second_largest.c -o second_largest
 ./second_largest
+

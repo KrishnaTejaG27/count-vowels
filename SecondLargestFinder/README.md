@@ -5,8 +5,8 @@ Write a program to find the second largest **distinct** number in a list of inte
 If there is no second largest (e.g., all numbers are identical), print `No second largest`.
 
 ## Input
-- First line: integer `n` (number of elements)
-- Second line: `n` integers separated by spaces
+- First line: integer n (number of elements)
+- Second line: n integers separated by spaces
 
 ## Output
 - The second largest distinct integer, or `No second largest`
@@ -21,4 +21,3 @@ Output:
 ## Build & Run
 gcc second_largest.c -o second_largest
 ./second_largest
-
